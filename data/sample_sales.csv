@@ -1,0 +1,31 @@
+Order ID,Order Date,Ship Date,Customer,Segment,Region,Category,Sub-Category,Product,Sales,Quantity,Discount,Profit
+CA-2023-001,2023-01-05,2023-01-08,Alice Johnson,Consumer,West,Technology,Phones,Samsung Galaxy,1200.00,2,0.10,360.00
+CA-2023-002,2023-01-12,2023-01-15,Bob Smith,Corporate,East,Furniture,Chairs,Herman Miller,850.00,1,0.05,127.50
+CA-2023-003,2023-01-18,2023-01-20,Carol White,Consumer,South,Office Supplies,Paper,A4 Ream,45.00,10,0.00,18.00
+CA-2023-004,2023-02-02,2023-02-05,David Lee,Consumer,West,Technology,Laptops,Dell XPS,2100.00,1,0.15,315.00
+CA-2023-005,2023-02-14,2023-02-17,Eve Davis,Home Office,North,Furniture,Tables,IKEA Desk,430.00,1,0.10,64.50
+CA-2023-006,2023-02-20,2023-02-23,Frank Miller,Corporate,East,Technology,Accessories,Keyboard,89.00,3,0.00,35.60
+CA-2023-007,2023-03-01,2023-03-04,Grace Wilson,Consumer,West,Office Supplies,Binders,Avery Binder,22.00,5,0.05,8.25
+CA-2023-008,2023-03-10,2023-03-13,Henry Moore,Consumer,South,Technology,Phones,iPhone 14,1399.00,1,0.00,419.70
+CA-2023-009,2023-03-22,2023-03-25,Iris Taylor,Corporate,East,Furniture,Bookcases,IKEA Billy,320.00,2,0.10,48.00
+CA-2023-010,2023-04-05,2023-04-08,Jack Anderson,Consumer,West,Technology,Laptops,MacBook Air,1299.00,1,0.05,194.85
+CA-2023-011,2023-04-15,2023-04-18,Karen Thomas,Home Office,North,Office Supplies,Envelopes,Manila Envelopes,12.00,20,0.00,4.80
+CA-2023-012,2023-04-28,2023-05-01,Liam Jackson,Consumer,South,Furniture,Chairs,Office Chair,560.00,1,0.15,56.00
+CA-2023-013,2023-05-03,2023-05-06,Mia White,Corporate,East,Technology,Accessories,Monitor,450.00,2,0.05,90.00
+CA-2023-014,2023-05-18,2023-05-21,Noah Harris,Consumer,West,Office Supplies,Paper,Laser Paper,38.00,8,0.00,15.20
+CA-2023-015,2023-06-02,2023-06-05,Olivia Martin,Consumer,South,Technology,Phones,Google Pixel,899.00,1,0.10,179.80
+CA-2023-016,2023-06-14,2023-06-17,Paul Garcia,Corporate,East,Furniture,Tables,Conference Table,1200.00,1,0.20,120.00
+CA-2023-017,2023-06-25,2023-06-28,Quinn Martinez,Home Office,North,Technology,Laptops,HP Spectre,1450.00,1,0.05,217.50
+CA-2023-018,2023-07-08,2023-07-11,Rachel Robinson,Consumer,West,Office Supplies,Binders,Cardinal Binder,18.00,6,0.00,7.20
+CA-2023-019,2023-07-20,2023-07-23,Sam Clark,Consumer,South,Technology,Accessories,Webcam,79.00,2,0.05,15.80
+CA-2023-020,2023-08-01,2023-08-04,Tina Lewis,Corporate,East,Furniture,Chairs,Ergonomic Chair,720.00,2,0.10,108.00
+CA-2023-021,2023-08-15,2023-08-18,Uma Walker,Consumer,West,Technology,Phones,OnePlus 11,699.00,1,0.00,209.70
+CA-2023-022,2023-08-28,2023-08-31,Victor Hall,Home Office,North,Office Supplies,Paper,Recycled Paper,29.00,12,0.05,10.44
+CA-2023-023,2023-09-05,2023-09-08,Wendy Allen,Consumer,South,Technology,Laptops,Lenovo ThinkPad,1100.00,1,0.10,165.00
+CA-2023-024,2023-09-18,2023-09-21,Xavier Young,Corporate,East,Furniture,Bookcases,Solid Wood Bookcase,480.00,1,0.00,144.00
+CA-2023-025,2023-10-02,2023-10-05,Yara Hernandez,Consumer,West,Technology,Accessories,USB Hub,35.00,4,0.00,14.00
+CA-2023-026,2023-10-14,2023-10-17,Zoe King,Consumer,South,Office Supplies,Envelopes,Bubble Mailers,9.00,25,0.10,2.03
+CA-2023-027,2023-10-25,2023-10-28,Aaron Wright,Home Office,North,Technology,Phones,Motorola Edge,499.00,1,0.05,99.80
+CA-2023-028,2023-11-05,2023-11-08,Beth Scott,Corporate,East,Furniture,Tables,Standing Desk,890.00,1,0.15,89.00
+CA-2023-029,2023-11-18,2023-11-21,Carl Green,Consumer,West,Technology,Laptops,ASUS ZenBook,999.00,1,0.00,299.70
+CA-2023-030,2023-12-02,2023-12-05,Diana Adams,Consumer,South,Office Supplies,Binders,Leatherette Binder,34.00,3,0.05,8.16

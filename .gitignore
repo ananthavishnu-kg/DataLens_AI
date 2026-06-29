@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+uploads/
+reports/
+exports/
+.DS_Store
+data/*.csv
+!data/sample_sales.csv
